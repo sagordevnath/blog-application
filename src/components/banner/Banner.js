@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Banner() {
   return (
-    <div class="card bg-base-100 shadow-xl mt-5">
+    <div class="card bg-base-100 shadow-xl mt-5 z-0">
   <div className="grid grid-cols-3 gap-1">
   <div class="card bg-base-100 shadow-xl image-full">
   <figure><img src="https://placeimg.com/400/225/arch" alt="Shoes" /></figure>
